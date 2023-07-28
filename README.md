@@ -5,8 +5,8 @@
 
 
 
-![image](https://github.com/Tanisha01-small/Power_Bi/blob/main/Screenshot%202023-07-28%20032128.png)
+![image](Screenshot 2023-07-28 032128.png)
 
-![image](https://github.com/Tanisha01-small/Power_Bi/blob/main/Screenshot%202023-07-28%20195313.png)
+![image](Screenshot 2023-07-28 195313.png)
 
-![image](https://github.com/Tanisha01-small/Power_Bi/blob/main/Screenshot%202023-07-28%20195335.png)
+![image](Screenshot 2023-07-28 195335.png)
