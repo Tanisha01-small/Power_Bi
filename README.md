@@ -5,7 +5,7 @@
 
 
 
-![image](https://github.com/Tanisha01-small/Power_Bi/assets/88341606/ddfa0b54-e877-432e-8a7e-79de43ecf318)
+![image](https://github.com/Tanisha01-small/Power_Bi/blob/main/Screenshot%202023-07-28%20032128.png)
 
 ![image](https://github.com/Tanisha01-small/Power_Bi/assets/88341606/6729ec13-00f7-49b3-8152-e8a679ab68b1)
 
